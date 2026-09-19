@@ -1,7 +1,7 @@
 # Hello, I'm Haris Ali 👋
 ### Cybersecurity Analyst | SOC Operations | Building Sentinel Mind AI
 
-<a href="https://www.linkedin.com/in/harisaliinfosec/">
+<a href="https://www.linkedin.com/in/harisali-infosec/">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Cybersecurity1218">
